@@ -10,6 +10,7 @@ Imp 的个人博客
 
 ### 最新
 
+* [编译原理词法分析实践：Java实现词法分析器](https://www.tanyajun.top/cifa)
 * [感谢！Bolo！](https://www.tanyajun.top/thanks)
 
 
