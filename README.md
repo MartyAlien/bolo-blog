@@ -1,4 +1,4 @@
-<p align="center"><img alt="Imp 的个人博客" src="https://pic-bucket-1304861547.cos.ap-guangzhou.myqcloud.com/imgs/100434801797_avatar.png"></p><h2 align="center">
+<p align="center"><img alt="Imp 的个人博客" src="https://pic-bucket-1304861547.cos.ap-guangzhou.myqcloud.com/imgs/100434801797_avatar.png"></img></p><h2 align="center">
 Imp 的个人博客
 </h2>
 
